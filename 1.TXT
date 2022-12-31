@@ -1,2 +1,3 @@
 BRANCH1
 123
+added new line
